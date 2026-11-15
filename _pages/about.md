@@ -14,3 +14,8 @@ I am a master's student in Economics at ILADES - Universidad Alberto Hurtado.
 - **Applied Microeconomics:** Industrial Organization, Game Theory, and Commodity Markets.
 - **Public Economics & Institutions:** Political Economy and Fiscal Policy.
 - **Quantitative Methods:** Applied Econometrics and Time-Series Analysis.
+
+## Contact
+
+- **Academic email:** [jochaveg@alumnos.uahurtado.cl](mailto:jochaveg@alumnos.uahurtado.cl)
+- **Personal email:** [gjosabat@gmail.com](mailto:gjosabat@gmail.com)
