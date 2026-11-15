@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Economics at ILADES - Universidad Alberto Hurtado.
+I am a Master's student in Economics at ILADES - Universidad Alberto Hurtado.
 
 ## Research Interests
 
@@ -18,4 +18,5 @@ I am a master's student in Economics at ILADES - Universidad Alberto Hurtado.
 ## Contact
 
 - **Academic email:** [jochaveg@alumnos.uahurtado.cl](mailto:jochaveg@alumnos.uahurtado.cl)
+- **Personal email:** [josabatg@gmail.com](mailto:josabatg@gmail.com)
 - **Personal email:** [gjosabat@gmail.com](mailto:gjosabat@gmail.com)
