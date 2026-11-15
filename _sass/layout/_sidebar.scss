@@ -325,3 +325,14 @@
     }
   }
 }
+/* Alinear el perfil con el inicio del contenido */
+.sidebar.sticky {
+  position: relative;
+  top: 0;
+  bottom: auto;
+  height: auto;
+  max-height: none;
+  margin-top: 0;
+  padding-top: 0 !important;
+  overflow: visible;
+}
